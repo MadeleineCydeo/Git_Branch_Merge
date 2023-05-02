@@ -8,7 +8,7 @@ public class Fantasy {
 
     //Fantastic Beasts
 
-    //lord of the rings
+    //Lord of the Rings
 
 
 }
