@@ -6,6 +6,10 @@ public class Desert {
 
     //coyote
 
+    //snake
+
+    //mountain lion
+
 
 
 }
