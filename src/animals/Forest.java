@@ -7,4 +7,7 @@ public class Forest {
     //moose
 
     //squirrel
+
+    //toad
+
 }
