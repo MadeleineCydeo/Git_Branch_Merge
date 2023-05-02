@@ -6,5 +6,9 @@ public class Fantasy {
 
     //Eragon
 
+    //Fantastic Beasts
+
+    //lord of the rings
+
 
 }
